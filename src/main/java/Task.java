@@ -1,6 +1,6 @@
 public class Task {
-    //todo add print Hello World
+    //todo add print
     public void foo() {
-        System.out.println("Hello World");
+        System.out.println("");
     }
 }
